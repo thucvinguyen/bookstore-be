@@ -1101,6 +1101,26 @@
       "title": "Memoirs of Hadrian",
       "year": 1951,
       "id": "C04C739C7599"
+    },
+    {
+      "author": "J.K. Rowling",
+      "country": "United Kingdom",
+      "imageLink": "https://example.com/book-image.jpg",
+      "language": "English",
+      "pages": 400,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 1997,
+      "id": "dd0a4174"
+    },
+    {
+      "author": "Vi",
+      "country": "Vietnam",
+      "imageLink": "https://example.com/book-image.jpg",
+      "language": "Vietnamese",
+      "pages": 200,
+      "title": "hi",
+      "year": 2024,
+      "id": "b50f9875"
     }
   ]
 }
